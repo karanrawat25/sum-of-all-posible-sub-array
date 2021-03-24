@@ -1,4 +1,4 @@
-# sum-of-all-posiible-sub-array
+# sum-of-all-posible-sub-array
 
 
 
